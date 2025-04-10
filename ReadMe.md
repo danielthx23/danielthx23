@@ -2,9 +2,7 @@
   <h1>Olá! Bem-vindo ao</h1>
   <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal"/>
 </div>
-<p>Meu nome é Daniel Saburo Akiyama, ou você pode só Call me Daniel ( O resto é dificil )</p>
-
-<br/>
+<p>Meu nome é Daniel Saburo Akiyama, ou você pode só Call me Daniel ( o resto é dificil )</p>
 
 <h2>Stats</h2>
 
