@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+<div align="center">
   <h1>Olá! Bem-vindo ao</h1>
   <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal" />
 </div>
