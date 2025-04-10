@@ -21,8 +21,6 @@
   <a href="https://api.whatsapp.com/send?phone=5511959670278&text=Ol%C3%A1,%20eu%20encontrei%20seu%20n%C3%BAmero%20atrav%C3%A9s%20do%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
 ## Check Out my Public Repositories!
 
 WORK IN PROGRESS
