@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="width: '100%'; flex: 1; justifyContent: center">
   Olá! Bem-vindo ao
   <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal"/>
 </div>
