@@ -1,6 +1,6 @@
-<h1 align="center" style="vertical-align: center;">
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   Hi! Welcome to my 
-  <img src="./assets/texto_fogo_legal.gif" width="300" style="vertical-align: text-bottom;" />
+  <img src="./assets/texto_fogo_legal.gif" width="300" style="vertical-align: middle;" />
 </h1>
 
 <h2>About Me</h2>
