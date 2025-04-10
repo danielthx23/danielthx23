@@ -1,8 +1,6 @@
 <div align="center">
   
-### Olá! Bem vindo ao
-  
-  <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal" />
+### Olá! Bem vindo ao meu perfil do Github!
 </div>
 
 <marquee></marquee>
