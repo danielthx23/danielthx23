@@ -1,6 +1,6 @@
-<h1 align="center">
+<h1 align="center" style="vertical-align: middle;">
   Hi! Welcome to my 
-  <img src="./assets/texto_fogo_legal.gif" width="300" style="vertical-align: middle;" />
+  <img src="./assets/texto_fogo_legal.gif" width="300" />
 </h1>
 
 <h2>About Me</h2>
