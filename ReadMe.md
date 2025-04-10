@@ -1,13 +1,14 @@
 <div align="center">
-  <p style="fontSize: 2em; fontWeight: bold;">Olá! Bem-vindo ao</p>
+  <p><strong><span style="font-size: 2em;">Olá! Bem-vindo ao</span></strong></p>
   <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal" />
 </div>
 
 <hr/>
 
-<h2 align="center";">
-  Meu nome é Daniel Saburo Akiyama, ou você pode só me chamar de Daniel (o resto é difícil 😎 )
+<h2>
+  Sobre mim
 </h2>
+<p>Meu nome é Daniel Saburo Akiyama, </p>
 
 <h2 style="text-align: center;">Stats</h2>
 
@@ -22,7 +23,7 @@
   <summary><i>Footer macabro (abra por sua conta e risco)</i></summary>
 
   <p>
-    <strong>Discord:</strong> danielthx23 (igual ao GitHub 😐)<br/>
+    <strong>Discord:</strong> danielthx23#2007<br/>
     <strong>GitHub:</strong> é...<br/>
     <strong>Email:</strong> danielakiyama8@gmail.com
   </p>
