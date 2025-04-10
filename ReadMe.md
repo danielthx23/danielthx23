@@ -1,6 +1,6 @@
 <div align="center">
   
-  ***Olá! Bem vindo ao***
+## Olá! Bem vindo ao
   
   <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal" />
 </div>
