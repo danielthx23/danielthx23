@@ -30,9 +30,12 @@
 ![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+##
+
 <br/>
 
-<h3 align="center">That's All! <img src="./assets/club_dance.gif" width="50"/></h3>
+<h3>Okay bye</h3>
+<img align="center" src="./assets/club_dance.gif" width="50"/>
 
 <details>
   <summary><i>le footer (open at your own risk)</i></summary>
