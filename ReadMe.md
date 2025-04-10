@@ -32,8 +32,7 @@
 
 <br/>
 
-<h3>That's All!</h3>
-<img src="./assets/club_dance.gif"/>
+<h3 align="center">That's All! <img src="./assets/club_dance.gif" width="50"/></h3>
 
 <details>
   <summary><i>le footer (open at your own risk)</i></summary>
