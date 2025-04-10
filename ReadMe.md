@@ -25,10 +25,10 @@
 
 <h2 align="center">Stats</h2>
 
-  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <br/>
 
