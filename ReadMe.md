@@ -18,9 +18,9 @@
   <a href="https://api.whatsapp.com/send?phone=5511959670278&text=Ol%C3%A1,%20eu%20encontrei%20seu%20n%C3%BAmero%20atrav%C3%A9s%20do%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Programming Languages | Frameworks |  Libraries
+## Programming Languages | Frameworks |  Libraries | Other Stuff
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,bootstrap,cpp,css,discord,docker,dotnet,eclipse,git,github,gradle,html,java,js,kubernetes,linux,mongodb,mysql,nodejs,postman,py,raspberrypi,react,selenium,tensorflow,visualstudio,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,bash,gtk,elixir,androidstudio,angular,arduino,firebase,aws,azure,bootstrap,cpp,css,discord,docker,dotnet,spring,flask,python,eclipse,git,github,gradle,html,java,js,kubernetes,linux,lua,mongodb,mysql,nextjs,nodejs,nix,oracle,postman,prisma,py,pytorch,raspberrypi,react,react-native,rider,selenium,tensorflow,vercel,visualstudio,vim,vscode)](https://skillicons.dev)
 
 
 <h2>Stats</h2>
