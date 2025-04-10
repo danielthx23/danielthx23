@@ -1,4 +1,7 @@
-<h1 align="center">Hi! Welcome to my <img width=250 src="./assets/texto_fogo_legal.gif"/></h1>
+<h1 align="center">
+  Hi! Welcome to my 
+  <img src="./assets/texto_fogo_legal.gif" width="300" style="vertical-align: middle;" />
+</h1>
 
 <h2>About Me</h2>
 
