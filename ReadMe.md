@@ -1,5 +1,5 @@
 <div align="center">
-  <p><strong><span style="font-size: 2em;">Olá! Bem-vindo ao</span></strong></p>
+  <p><strong><span style="font-size: 12em;">Olá! Bem-vindo ao</span></strong></p>
   <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal" />
 </div>
 
