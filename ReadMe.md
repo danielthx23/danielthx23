@@ -32,8 +32,6 @@
 
 ##
 
-<br/>
-
 <h3>Okay bye</h3>
 <img align="center" src="./assets/club_dance.gif" width="50"/>
 
