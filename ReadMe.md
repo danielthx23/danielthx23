@@ -1,26 +1,34 @@
-<div style="width: '100%'; flex: 1; justifyContent: center">
-  Olá! Bem-vindo ao
-  <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal"/>
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <h1>Olá! Bem-vindo ao</h1>
+  <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal" />
 </div>
-<p>Meu nome é Daniel Saburo Akiyama, ou você pode só Call me Daniel ( o resto é dificil )</p>
 
-<h2>Stats</h2>
+<p style="text-align: center;">
+  Meu nome é Daniel Saburo Akiyama, ou você pode só me chamar de Daniel (o resto é difícil 😎 )
+</p>
 
-![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<h2 style="text-align: center;">Stats</h2>
+
+<div style="text-align: center;">
+  <!-- GitHub Stats -->
+  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats - Dark" />
+  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats - Light" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages - Dark" />
+  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages - Light" />
+</div>
 
 <br/>
 
 <details>
-  <summary><i>footer macabro (abra por sua conta e risco)</i></summary>
-  
-   *Discord* > danielthx23 (igual o github =/)<br/>
-   *Github* > é...<br/>
-   *Mail* > danielakiyama8@gmail.com <br/>
-  
-   *Mais nada para ver aqui.*
+  <summary><i>Footer macabro (abra por sua conta e risco)</i></summary>
 
-   <img src="./assets/club_sweep.gif"/>
+  <p>
+    <strong>Discord:</strong> danielthx23 (igual ao GitHub 😐)<br/>
+    <strong>GitHub:</strong> é...<br/>
+    <strong>Email:</strong> danielakiyama8@gmail.com
+  </p>
+
+  <p><em>Mais nada pra ver aqui.</em></p>
+  <img src="./assets/club_sweep.gif" alt="GIF estranho" />
 </details>
