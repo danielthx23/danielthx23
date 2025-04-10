@@ -32,6 +32,8 @@
 
 <br/>
 
+<marquee direction="left"> <img src=".assets/club_dance.gif"/></marquee>
+
 <details>
   <summary><i>le footer (open at your own risk)</i></summary>
 
