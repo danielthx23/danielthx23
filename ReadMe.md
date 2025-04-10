@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="vertical-align: text-center;">
   Hi! Welcome to my 
   <img src="./assets/texto_fogo_legal.gif" width="300" style="vertical-align: text-bottom;" />
 </h1>
