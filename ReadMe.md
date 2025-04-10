@@ -1,24 +1,20 @@
 <div align="center">
-  <p style="font-size: 2em; font-weight: bold; margin-bottom: 0;">Olá! Bem-vindo ao</p>
+  <p style="fontSize: 2em; fontWeight: bold;">Olá! Bem-vindo ao</p>
   <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal" />
 </div>
 
 <hr/>
 
-<h2 style="text-align: center;">
+<h2 align="center";">
   Meu nome é Daniel Saburo Akiyama, ou você pode só me chamar de Daniel (o resto é difícil 😎 )
 </h2>
 
 <h2 style="text-align: center;">Stats</h2>
 
-<div style="text-align: center;">
-  <!-- GitHub Stats -->
-  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats - Dark" />
-  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats - Light" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages - Dark" />
-  <img src="https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages - Light" />
-</div>
+![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <br/>
 
