@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,azure,bootstrap,cpp,css,discord,docker,dotnet,eclipse,git,github,gradle,html,java,js,kubernetes,linux,mongodb,mysql,nodejs,postman,py,raspberrypi,react,selenium,tensorflow,visualstudio,vscode,)](https://skillicons.dev)
 
 
-<h2 align="center">Stats</h2>
+<h2>Stats</h2>
 
 ![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/danielthx23/github-stats/master/generated/overview.svg#gh-light-mode-only)
