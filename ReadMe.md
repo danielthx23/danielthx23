@@ -1,16 +1,18 @@
 <div align="center">
   
-## Olá! Bem-vindo ao
+  ***Olá! Bem vindo ao***
   
   <img src="./assets/texto_fogo_legal.gif" alt="Texto em fogo legal" />
 </div>
+
+<marquee></marquee>
 
 <hr/>
 
 <h2>
   Sobre mim
 </h2>
-<p>Meu nome é Daniel Saburo Akiyama, </p>
+<p>Meu nome é Daniel Saburo Akiyama, atualmente estou aprofundando meus conhecimentos em Cloud Computing</p>
 
 <h2 style="text-align: center;">Stats</h2>
 
